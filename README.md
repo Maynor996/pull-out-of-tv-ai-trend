@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://remixmeme.com/templates/pull-out-of-tv-ai-trend"><img src="https://img.shields.io/badge/Live-remixmeme.com-111111?style=for-the-badge" alt="Live" /></a>
   <a href="https://remixmeme.com/zh/templates/pull-out-of-tv-ai-trend"><img src="https://img.shields.io/badge/中文-remixmeme.com%2Fzh-2ea44f?style=for-the-badge" alt="ZH" /></a>
-  <a href="https://maynor996.github.io/rm-pull-out-of-tv-ai-trend/"><img src="https://img.shields.io/badge/Pages-landing-6c5ce7?style=for-the-badge" alt="Pages" /></a>
+  <a href="https://maynor996.github.io/pull-out-of-tv-ai-trend/"><img src="https://img.shields.io/badge/Pages-landing-6c5ce7?style=for-the-badge" alt="Pages" /></a>
 </p>
 
 **Pull Out of the TV AI Trend: Someone Steps Out of Your TV and Hugs You** is one of the AI meme / viral templates on **[Remix Meme](https://remixmeme.com)** (Awesome Meme Video).
@@ -21,7 +21,7 @@ The pull out of the TV AI trend is the TikTok trend where someone on your TV rea
 | **Template** | https://remixmeme.com/templates/pull-out-of-tv-ai-trend |
 | **中文** | https://remixmeme.com/zh/templates/pull-out-of-tv-ai-trend |
 | **Catalog home** | https://remixmeme.com |
-| **This landing** | https://maynor996.github.io/rm-pull-out-of-tv-ai-trend/ |
+| **This landing** | https://maynor996.github.io/pull-out-of-tv-ai-trend/ |
 
 ## How to use
 
